@@ -1,0 +1,21 @@
+{% extends 'index.html' %}
+{% block title %} <title>Collection Details</title> {% endblock %}
+
+{% block content %}
+
+<div class="collection-detail-container">
+
+<div class="book card-xs">
+    
+    <img src=" {{ book.cover }} " alt="">
+    <h3>{{book.title}}</h3>
+    <span>Author: {{ book.author }}</span>
+    <p>{{ book.description }}</p>
+</div>
+
+{% if request.user.is_superuser %}
+        <a href="{% url 'delete_book' book.id %}" class="btn btn-danger">Delete book</a> 
+{% endif %} 
+</div>
+
+{% endblock %}
