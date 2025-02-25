@@ -1,0 +1,6 @@
+2025-02-25 19:53:16 - Request URL: / | Processing Time: 0.0259 sec
+2025-02-25 19:53:17 - Request URL: /book_detail/5/ | Processing Time: 0.0051 sec
+2025-02-25 19:53:19 - Request URL: /update_book/5/ | Processing Time: 0.0200 sec
+2025-02-25 19:54:47 - Request URL: /update_book/5/ | Processing Time: 0.0558 sec
+2025-02-25 19:54:47 - Request URL: /book_detail/5/ | Processing Time: 0.0164 sec
+2025-02-25 20:11:25 - C:\Users\User\Desktop\books\myproject\myproject\settings.py changed, reloading.

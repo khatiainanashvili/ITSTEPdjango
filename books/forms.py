@@ -9,3 +9,9 @@ class BookForm(forms.ModelForm):
     class Meta:
         model = Books
         fields = ['title', 'author_name', 'country', 'description', 'genre'] 
+
+
+class BookUpdateForm(forms.ModelForm):
+    class Meta: 
+        model = Books
+        fields = '__all__'

@@ -1,9 +1,9 @@
 {% extends 'index.html' %}
-{% block title %} <title>Collection Details</title> {% endblock %}
+{% block title %} <title>Book Details</title> {% endblock %}
 
 {% block content %}
 
-<div class="collection-detail-container">
+<div class="container">
 
 <div class="book card-xs">
     
@@ -15,7 +15,8 @@
 
 {% if request.user.is_superuser %}
         <a href="{% url 'delete_book' book.id %}" class="btn btn-danger">Delete book</a> 
-{% endif %} 
+{% endif %}
+        <a href="{% url 'update_book'  book.id %}" class="btn btn-primar">Update</a>  
 </div>
 
 {% endblock %}

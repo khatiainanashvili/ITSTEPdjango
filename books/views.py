@@ -1,5 +1,5 @@
 from django.shortcuts import get_object_or_404, redirect, render
-from .forms import BookForm
+from .forms import BookForm, BookUpdateForm
 from .models import Books
 from django.contrib.auth.decorators import login_required 
 from django.db.models import Q
@@ -49,3 +49,20 @@ def delete_book(request, id):
 
         return redirect('home')
     return render(request, "books/delete_book.html", {'book' : book})
+
+
+def update_book(request, id):
+    book = get_object_or_404(Books, id=id)
+    book_form = BookUpdateForm(instance=book)
+
+    if request.method == "POST":
+        book_form = BookUpdateForm(request.POST, instance=book)
+
+        if book_form.is_valid():
+            book_form.save()
+            return redirect('book_detail', id=id)  
+        
+    return render(request, 'books/update_book.html', {
+        'book_form': book_form,
+        'book': book
+    })
