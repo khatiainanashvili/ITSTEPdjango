@@ -3,22 +3,25 @@
 
 {% for book in books %}
 
-<div class="d-flex col-md-4 mb-4">
+<div class="d-flex col-md-4 mb-4 flex-wrap">
     {% if book.id %}
     <a href="{% url 'book_detail' book.id %}" class="text-decoration-none d-flex">
     {% endif %}
         <div class="card" style="width: 18rem;">
-            <img src="{{ book.cover }}" alt="{{ book.title }}" class="card-img-top">
+            <img src="{{ book.cover.url }}" alt="{{ book.title }}" class="card-img-top">
             <div class="card-body">
                 <h5 class="card-title">{{ book.title }}</h5>
                 <p class="card-text">{{ book.description }}</p>
                 <p><strong>Genre:</strong> {{ book.genre }}</p>
                
-                <p>Author:</p>
+                <p>Author: {{ author }}</p>
              
             </div>
         </div>
     </a>
 </div>
+
 {% endfor %}
+
+{% include 'books/paginator.html' %}
 {% endblock %}

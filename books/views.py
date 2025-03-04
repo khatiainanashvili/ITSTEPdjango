@@ -3,16 +3,26 @@ from .forms import BookForm, BookUpdateForm
 from .models import Books
 from django.contrib.auth.decorators import login_required 
 from django.db.models import Q
+from django.core.paginator import Paginator, PageNotAnInteger, EmptyPage
 
 def home(request):
     query = request.GET.get('query', "") 
     genres = Books.objects.values_list('genre', flat=True).distinct() 
     
     if query:
-        books = Books.objects.filter(genre=query) or Books.objects.filter(title__icontains = query)
-
+        books = Books.objects.filter(Q(genre=query) | Q(title__icontains=query))
     else:
-        books = Books.objects.filter()
+        books = Books.objects.all()
+    
+    paginator = Paginator(books, 3)
+    page_number = request.GET.get('page')
+
+    try:
+        books = paginator.page(page_number)
+    except PageNotAnInteger:
+        books = paginator.page(1)
+    except EmptyPage:
+        books = paginator.page(paginator.num_pages)
 
     context = {"books": books, "headline": "Book", "genres": genres}
     return render(request, 'books/home.html', context)
@@ -21,14 +31,16 @@ def home(request):
 
 def add_book(request):
     if request.method == 'POST':
-        form = BookForm(request.POST)
+        form = BookForm(request.POST, request.FILES) 
         if form.is_valid():
             form.save()
             return redirect('home')
     else:
         form = BookForm()
 
+
     return render(request, 'books/add_book.html', {'form': form})
+
 
 
 def book_details(request, id):
@@ -66,3 +78,5 @@ def update_book(request, id):
         'book_form': book_form,
         'book': book
     })
+
+

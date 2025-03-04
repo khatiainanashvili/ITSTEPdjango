@@ -5,7 +5,7 @@
 {% block content %}
 
 
-<div class="container d-flex">
+<div class="container d-flex flex-wrap">
     <div class="">
     {% for genre in genres %}
     <a href="{{ request.path }}?query={{ genre }}">

@@ -10,7 +10,7 @@ class Books(models.Model):
     title = models.CharField(max_length=50)
     genre = models.CharField(max_length=50)
     description = models.TextField()
-    cover = models.CharField(max_length=300)
+    cover = models.ImageField(upload_to='illustrations/')
     authors = models.ManyToManyField(Author)
 
     def __str__(self):
