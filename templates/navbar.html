@@ -7,6 +7,7 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="{% url 'logout'%}">LogOut</a>
         </li>
+        <li> <a href="{% url 'password_change' %}">Change Password</a></li>
        {% else %}
         <li class="nav-item mx-5 ">
         <a class="nav-link active" aria-current="page" href="{% url 'login'%}">LogIn</a>
@@ -14,6 +15,7 @@
         <li class="nav-item mx-5">
             <a class="nav-link active" aria-current="page" href="{% url 'register'%}">Register</a>
         </li>
+        
   {% endif %}
     </ul>
     <form class="d-flex" role="search">

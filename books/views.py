@@ -1,9 +1,11 @@
 from django.shortcuts import get_object_or_404, redirect, render
 from .forms import BookForm, BookUpdateForm
-from .models import Books
+from .models import Books, Purchase
 from django.contrib.auth.decorators import login_required 
 from django.db.models import Q
 from django.core.paginator import Paginator, PageNotAnInteger, EmptyPage
+from django.core.mail import send_mail
+from django.conf import settings
 
 def home(request):
     query = request.GET.get('query', "") 
@@ -80,3 +82,22 @@ def update_book(request, id):
     })
 
 
+
+@login_required
+def buy_book(request, id):
+    book = get_object_or_404(Books, id=id)
+    
+    if request.method == "POST":
+        Purchase.objects.create(user=request.user, book=book)
+        
+        send_mail(
+            subject="Successfully Purchased the Book.",
+            message=f"You have successfully purchased the book. '{book.title}'.",
+            from_email=settings.EMAIL_HOST_USER,
+            recipient_list=[request.user.email],
+            fail_silently=False,
+        )
+
+        return redirect('home')
+
+    return render(request, 'books/buy_book.html', {'book': book})

@@ -14,12 +14,22 @@
                 <p class="card-text">{{ book.description }}</p>
                 <p><strong>Genre:</strong> {{ book.genre }}</p>
                
-                <p>Author: {{ author }}</p>
+                {% for author in book.authors.all %}
+                    {{ author }}
+                    {% if not forloop.last %}
+                       , 
+                    {% endif %}
+                {% endfor %}
              
             </div>
         </div>
+
+        <a href="{% url 'buy_book' book.id %}" class="btn btn-primary">Buy Now</a>
     </a>
+
 </div>
+
+
 
 {% endfor %}
 
