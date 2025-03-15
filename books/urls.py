@@ -1,19 +1,14 @@
-
 from django.urls import path
-from . import views
-
+from .views import (
+    HomeView, AddBookView, BookDetailView, 
+    UpdateBookView, DeleteBookView, BuyBookView
+)
 
 urlpatterns = [
-    path('', views.home, name='home'),  
-    path('add_books/', views.add_book, name='add_book'),
-    path('book_detail/<int:id>/', views.book_details, name='book_detail'),
-    path('delete_book/<int:id>/', views.delete_book, name='delete_book'),
-    path('update_book/<int:id>/', views.update_book, name='update_book'),
-    path('buy/<int:id>/', views.buy_book, name='buy_book'),
-
+    path('', HomeView.as_view(), name='home'),
+    path('add_book/', AddBookView.as_view(), name='add_book'), 
+    path('book/<int:pk>/', BookDetailView.as_view(), name='book_detail'),
+    path('update_book/<int:pk>/', UpdateBookView.as_view(), name='update_book'),
+    path('delete_book/<int:pk>/', DeleteBookView.as_view(), name='delete_book'),
+    path('buy/<int:pk>/', BuyBookView.as_view(), name='buy_book'),
 ]
-
-
-
-
-

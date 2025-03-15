@@ -320,3 +320,1625 @@ django.template.exceptions.TemplateDoesNotExist: auth/password_change.html
 2025-03-08 21:48:37 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0094 sec
 2025-03-08 21:48:37 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
 2025-03-08 21:48:37 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:26:10 - Request URL: / | Processing Time: 0.1508 sec
+2025-03-15 15:26:10 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.2180 sec
+2025-03-15 15:26:10 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.2186 sec
+2025-03-15 15:26:10 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:26:10 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:26:10 - Request URL: /files/illustrations/avatar.png | Processing Time: 0.0043 sec
+2025-03-15 15:26:11 - Request URL: /favicon.ico | Processing Time: 0.0076 sec
+2025-03-15 15:26:11 - Not Found: /favicon.ico
+2025-03-15 15:26:17 - Request URL: / | Processing Time: 0.0083 sec
+2025-03-15 15:26:17 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0075 sec
+2025-03-15 15:26:17 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:26:17 - Request URL: /files/illustrations/Leonardo_Phoenix_09_A_delicate_intricately_detailed_magic_tran_3.png | Processing Time: 0.0863 sec
+2025-03-15 15:26:20 - Request URL: / | Processing Time: 0.0052 sec
+2025-03-15 15:26:20 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0069 sec
+2025-03-15 15:26:20 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:26:22 - Request URL: / | Processing Time: 0.0091 sec
+2025-03-15 15:26:22 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0090 sec
+2025-03-15 15:26:22 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:26:24 - Request URL: / | Processing Time: 0.0073 sec
+2025-03-15 15:26:24 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0111 sec
+2025-03-15 15:26:24 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0109 sec
+2025-03-15 15:26:24 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:26:24 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:26:29 - Request URL: / | Processing Time: 0.0110 sec
+2025-03-15 15:26:29 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0116 sec
+2025-03-15 15:26:29 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0136 sec
+2025-03-15 15:26:29 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:26:29 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:26:34 - Request URL: / | Processing Time: 0.0122 sec
+2025-03-15 15:26:34 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0109 sec
+2025-03-15 15:26:34 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:26:34 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0148 sec
+2025-03-15 15:26:34 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:27:56 - Request URL: / | Processing Time: 0.0086 sec
+2025-03-15 15:27:56 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0133 sec
+2025-03-15 15:27:56 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0119 sec
+2025-03-15 15:27:56 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:27:56 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:27:57 - Request URL: / | Processing Time: 0.0051 sec
+2025-03-15 15:27:57 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0057 sec
+2025-03-15 15:27:57 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:29:40 - C:\Users\User\Desktop\books\myproject\books\views.py changed, reloading.
+2025-03-15 15:29:43 - Request URL: / | Processing Time: 0.0540 sec
+2025-03-15 15:29:43 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0175 sec
+2025-03-15 15:29:43 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0163 sec
+2025-03-15 15:29:43 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:29:43 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:30:11 - C:\Users\User\Desktop\books\myproject\books\urls.py changed, reloading.
+2025-03-15 15:30:14 - Request URL: / | Processing Time: 0.0523 sec
+2025-03-15 15:30:15 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0169 sec
+2025-03-15 15:30:15 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0168 sec
+2025-03-15 15:30:15 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:30:15 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:31:26 - Request URL: / | Processing Time: 0.0113 sec
+2025-03-15 15:31:26 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0122 sec
+2025-03-15 15:31:26 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:31:26 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0161 sec
+2025-03-15 15:31:26 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:33:48 - Request URL: / | Processing Time: 0.0128 sec
+2025-03-15 15:33:48 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0095 sec
+2025-03-15 15:33:48 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:33:48 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0129 sec
+2025-03-15 15:33:48 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:36:47 - Request URL: / | Processing Time: 0.0134 sec
+2025-03-15 15:36:47 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0124 sec
+2025-03-15 15:36:47 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0144 sec
+2025-03-15 15:36:47 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:36:47 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:37:28 - C:\Users\User\Desktop\books\myproject\books\urls.py changed, reloading.
+2025-03-15 15:37:30 - Request URL: / | Processing Time: 0.0463 sec
+2025-03-15 15:37:30 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0194 sec
+2025-03-15 15:37:30 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0212 sec
+2025-03-15 15:37:30 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 15:37:30 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:38:59 - Request URL: / | Processing Time: 0.0109 sec
+2025-03-15 15:38:59 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0136 sec
+2025-03-15 15:38:59 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0120 sec
+2025-03-15 15:38:59 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 15:38:59 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:27:58 - C:\Users\User\Desktop\books\myproject\books\views.py changed, reloading.
+2025-03-15 16:28:13 - C:\Users\User\Desktop\books\myproject\books\urls.py changed, reloading.
+2025-03-15 16:28:55 - Request URL: / | Processing Time: 0.0618 sec
+2025-03-15 16:28:55 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.1425 sec
+2025-03-15 16:28:55 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.1448 sec
+2025-03-15 16:28:55 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:28:55 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:29:26 - Request URL: / | Processing Time: 0.0151 sec
+2025-03-15 16:29:26 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0170 sec
+2025-03-15 16:29:26 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0220 sec
+2025-03-15 16:29:26 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:29:26 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:29:27 - Request URL: / | Processing Time: 0.0094 sec
+2025-03-15 16:29:27 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0111 sec
+2025-03-15 16:29:27 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0120 sec
+2025-03-15 16:29:27 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:29:27 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:29:27 - Request URL: / | Processing Time: 0.0108 sec
+2025-03-15 16:29:27 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0081 sec
+2025-03-15 16:29:27 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0113 sec
+2025-03-15 16:29:27 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:29:27 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:29:28 - Request URL: / | Processing Time: 0.0050 sec
+2025-03-15 16:29:28 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0138 sec
+2025-03-15 16:29:28 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0136 sec
+2025-03-15 16:29:28 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:29:28 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:30:28 - Request URL: / | Processing Time: 0.0119 sec
+2025-03-15 16:32:02 - Request URL: / | Processing Time: 0.0080 sec
+2025-03-15 16:32:04 - Request URL: / | Processing Time: 0.0047 sec
+2025-03-15 16:32:05 - Request URL: / | Processing Time: 0.0093 sec
+2025-03-15 16:32:05 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0120 sec
+2025-03-15 16:32:05 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0157 sec
+2025-03-15 16:32:05 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:32:05 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:32:44 - Request URL: /add_book/ | Processing Time: 0.0061 sec
+2025-03-15 16:32:44 - Not Found: /add_book/
+2025-03-15 16:33:30 - C:\Users\User\Desktop\books\myproject\books\urls.py changed, reloading.
+2025-03-15 16:33:33 - Request URL: /add_book/ | Processing Time: 0.0121 sec
+2025-03-15 16:33:33 - Not Found: /add_book/
+2025-03-15 16:33:52 - Request URL: /add_book/ | Processing Time: 0.0083 sec
+2025-03-15 16:33:52 - Not Found: /add_book/
+2025-03-15 16:34:08 - C:\Users\User\Desktop\books\myproject\books\urls.py changed, reloading.
+2025-03-15 16:34:53 - C:\Users\User\Desktop\books\myproject\books\urls.py changed, reloading.
+2025-03-15 16:35:53 - C:\Users\User\Desktop\books\myproject\books\urls.py changed, reloading.
+2025-03-15 16:35:55 - Request URL: / | Processing Time: 0.0568 sec
+2025-03-15 16:35:55 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0216 sec
+2025-03-15 16:35:55 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0231 sec
+2025-03-15 16:35:55 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:35:55 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:35:57 - Request URL: /add_book/ | Processing Time: 0.1146 sec
+2025-03-15 16:36:15 - Request URL: /add_book/ | Processing Time: 0.2637 sec
+2025-03-15 16:36:15 - Request URL: / | Processing Time: 0.0118 sec
+2025-03-15 16:36:15 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0151 sec
+2025-03-15 16:36:15 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0154 sec
+2025-03-15 16:36:15 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:36:15 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:36:26 - Request URL: / | Processing Time: 0.0085 sec
+2025-03-15 16:36:26 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0128 sec
+2025-03-15 16:36:26 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0128 sec
+2025-03-15 16:36:26 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:36:26 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:36:31 - Request URL: / | Processing Time: 0.0073 sec
+2025-03-15 16:36:31 - Request URL: /files/covers/IMG_5199.jpg | Processing Time: 0.0573 sec
+2025-03-15 16:39:53 - C:\Users\User\Desktop\books\myproject\books\views.py changed, reloading.
+2025-03-15 16:39:55 - Request URL: / | Processing Time: 0.0635 sec
+2025-03-15 16:39:55 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0238 sec
+2025-03-15 16:39:55 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0221 sec
+2025-03-15 16:39:55 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:39:55 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:40:35 - Request URL: / | Processing Time: 0.0112 sec
+2025-03-15 16:40:35 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0164 sec
+2025-03-15 16:40:35 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:40:35 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0107 sec
+2025-03-15 16:40:35 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:40:37 - Request URL: / | Processing Time: 0.0065 sec
+2025-03-15 16:40:37 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0125 sec
+2025-03-15 16:40:37 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0145 sec
+2025-03-15 16:40:37 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:40:37 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:40:37 - Request URL: / | Processing Time: 0.0082 sec
+2025-03-15 16:40:37 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0154 sec
+2025-03-15 16:40:37 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0167 sec
+2025-03-15 16:40:37 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:40:37 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:40:38 - Request URL: / | Processing Time: 0.0067 sec
+2025-03-15 16:40:38 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0104 sec
+2025-03-15 16:40:38 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0132 sec
+2025-03-15 16:40:38 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:40:38 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:40:38 - Request URL: / | Processing Time: 0.0110 sec
+2025-03-15 16:40:38 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0183 sec
+2025-03-15 16:40:38 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0171 sec
+2025-03-15 16:40:38 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:40:38 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 16:41:48 - C:\Users\User\Desktop\books\myproject\books\views.py changed, reloading.
+2025-03-15 16:41:51 - Request URL: / | Processing Time: 0.0412 sec
+2025-03-15 16:41:51 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0118 sec
+2025-03-15 16:41:51 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:42:58 - C:\Users\User\Desktop\books\myproject\books\views.py changed, reloading.
+2025-03-15 16:53:21 - Request URL: / | Processing Time: 0.0539 sec
+2025-03-15 16:53:21 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0207 sec
+2025-03-15 16:53:21 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 16:53:23 - Request URL: / | Processing Time: 0.0053 sec
+2025-03-15 16:53:23 - Request URL: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400 | Processing Time: 0.0050 sec
+2025-03-15 16:53:23 - Not Found: /files/https:/i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400
+2025-03-15 17:00:26 - C:\Users\User\Desktop\books\myproject\authentication\urls.py changed, reloading.
+2025-03-15 17:00:34 - Request URL: / | Processing Time: 0.0514 sec
+2025-03-15 17:00:34 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0127 sec
+2025-03-15 17:00:34 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 17:00:37 - Method Not Allowed (GET): /logout/
+2025-03-15 17:00:37 - Request URL: /logout/ | Processing Time: 0.0010 sec
+2025-03-15 17:00:37 - Method Not Allowed: /logout/
+2025-03-15 17:00:41 - Method Not Allowed (GET): /logout/
+2025-03-15 17:00:41 - Request URL: /logout/ | Processing Time: 0.0012 sec
+2025-03-15 17:00:41 - Method Not Allowed: /logout/
+2025-03-15 17:00:48 - Request URL: / | Processing Time: 0.0130 sec
+2025-03-15 17:00:48 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0077 sec
+2025-03-15 17:00:48 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 17:00:49 - Method Not Allowed (GET): /logout/
+2025-03-15 17:00:49 - Request URL: /logout/ | Processing Time: 0.0010 sec
+2025-03-15 17:00:49 - Method Not Allowed: /logout/
+2025-03-15 17:02:35 - Request URL: / | Processing Time: 0.0100 sec
+2025-03-15 17:02:35 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0055 sec
+2025-03-15 17:02:35 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 17:02:37 - Method Not Allowed (GET): /logout/
+2025-03-15 17:02:37 - Request URL: /logout/ | Processing Time: 0.0010 sec
+2025-03-15 17:02:37 - Method Not Allowed: /logout/
+2025-03-15 17:02:39 - Method Not Allowed (GET): /logout/
+2025-03-15 17:02:39 - Request URL: /logout/ | Processing Time: 0.0010 sec
+2025-03-15 17:02:39 - Method Not Allowed: /logout/
+2025-03-15 17:02:40 - Method Not Allowed (GET): /logout/
+2025-03-15 17:02:40 - Request URL: /logout/ | Processing Time: 0.0018 sec
+2025-03-15 17:02:40 - Method Not Allowed: /logout/
+2025-03-15 17:02:41 - Method Not Allowed (GET): /logout/
+2025-03-15 17:02:41 - Request URL: /logout/ | Processing Time: 0.0013 sec
+2025-03-15 17:02:41 - Method Not Allowed: /logout/
+2025-03-15 17:03:11 - Request URL: / | Processing Time: 0.0105 sec
+2025-03-15 17:03:11 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0045 sec
+2025-03-15 17:03:11 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 17:03:12 - Request URL: / | Processing Time: 0.0050 sec
+2025-03-15 17:03:13 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0062 sec
+2025-03-15 17:03:13 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 17:03:14 - Request URL: / | Processing Time: 0.0068 sec
+2025-03-15 17:03:14 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0050 sec
+2025-03-15 17:03:14 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 17:03:24 - Request URL: / | Processing Time: 0.0100 sec
+2025-03-15 17:03:24 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0067 sec
+2025-03-15 17:03:24 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 17:03:27 - Method Not Allowed (GET): /logout/
+2025-03-15 17:03:27 - Request URL: /logout/ | Processing Time: 0.0010 sec
+2025-03-15 17:03:27 - Method Not Allowed: /logout/
+2025-03-15 17:04:45 - C:\Users\User\Desktop\books\myproject\authentication\urls.py changed, reloading.
+2025-03-15 17:04:48 - Request URL: / | Processing Time: 0.0596 sec
+2025-03-15 17:04:48 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0125 sec
+2025-03-15 17:04:48 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 17:04:50 - Method Not Allowed (GET): /logout/
+2025-03-15 17:04:50 - Request URL: /logout/ | Processing Time: 0.0010 sec
+2025-03-15 17:04:50 - Method Not Allowed: /logout/
+2025-03-15 17:05:36 - C:\Users\User\Desktop\books\myproject\authentication\views.py changed, reloading.
+2025-03-15 17:12:35 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:12:35 - Request URL: / | Processing Time: 0.2962 sec
+2025-03-15 17:13:41 - C:\Users\User\Desktop\books\myproject\authentication\urls.py changed, reloading.
+2025-03-15 17:13:44 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:13:44 - Request URL: / | Processing Time: 0.1716 sec
+2025-03-15 17:16:02 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:16:02 - Request URL: / | Processing Time: 0.0803 sec
+2025-03-15 17:16:03 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:16:03 - Request URL: / | Processing Time: 0.0864 sec
+2025-03-15 17:16:34 - C:\Users\User\Desktop\books\myproject\authentication\views.py changed, reloading.
+2025-03-15 17:16:37 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:16:37 - Request URL: / | Processing Time: 0.1183 sec
+2025-03-15 17:17:42 - C:\Users\User\Desktop\books\myproject\authentication\views.py changed, reloading.
+2025-03-15 17:17:46 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:17:46 - Request URL: / | Processing Time: 0.1208 sec
+2025-03-15 17:19:51 - C:\Users\User\Desktop\books\myproject\authentication\views.py changed, reloading.
+2025-03-15 17:19:55 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:19:55 - Request URL: / | Processing Time: 0.0949 sec
+2025-03-15 17:19:57 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:19:57 - Request URL: / | Processing Time: 0.0575 sec
+2025-03-15 17:19:58 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:19:58 - Request URL: / | Processing Time: 0.0529 sec
+2025-03-15 17:19:58 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:19:58 - Request URL: / | Processing Time: 0.0633 sec
+2025-03-15 17:19:59 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:19:59 - Request URL: / | Processing Time: 0.0686 sec
+2025-03-15 17:20:40 - C:\Users\User\Desktop\books\myproject\authentication\views.py changed, reloading.
+2025-03-15 17:20:43 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:20:43 - Request URL: / | Processing Time: 0.0873 sec
+2025-03-15 17:20:45 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:20:45 - Request URL: / | Processing Time: 0.0529 sec
+2025-03-15 17:22:18 - C:\Users\User\Desktop\books\myproject\authentication\views.py changed, reloading.
+2025-03-15 17:22:22 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:22:22 - Request URL: / | Processing Time: 0.0886 sec
+2025-03-15 17:22:24 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_change' not found. 'password_change' is not a valid view function or pattern name.
+2025-03-15 17:22:24 - Request URL: / | Processing Time: 0.0535 sec
+2025-03-15 17:23:54 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'authentication'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'authentication' is not a registered namespace
+2025-03-15 17:23:54 - Request URL: / | Processing Time: 0.0987 sec
+2025-03-15 17:25:08 - C:\Users\User\Desktop\books\myproject\authentication\urls.py changed, reloading.
+2025-03-15 17:25:12 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'authentication'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'authentication' is not a registered namespace
+2025-03-15 17:25:12 - Request URL: / | Processing Time: 0.1781 sec
+2025-03-15 17:25:15 - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'authentication'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 326, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\.virtualenvs\User-jBUq-HwN\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'authentication' is not a registered namespace
+2025-03-15 17:25:15 - Request URL: / | Processing Time: 0.1174 sec
+2025-03-15 17:25:29 - Request URL: / | Processing Time: 0.0233 sec
+2025-03-15 17:25:29 - Request URL: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s | Processing Time: 0.0076 sec
+2025-03-15 17:25:29 - Not Found: /files/https:/encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6gQLP7iVUf5rkjXbvyO5npCHt-nd3lzsg&s
+2025-03-15 17:25:31 - Method Not Allowed (GET): /logout/
+2025-03-15 17:25:31 - Request URL: /logout/ | Processing Time: 0.0020 sec
+2025-03-15 17:25:31 - Method Not Allowed: /logout/
+2025-03-15 17:25:36 - Request URL: /password_change/ | Processing Time: 0.3139 sec
+2025-03-15 17:26:19 - C:\Users\User\Desktop\books\myproject\authentication\urls.py changed, reloading.
+2025-03-15 17:26:24 - Method Not Allowed (GET): /logout/
+2025-03-15 17:26:24 - Request URL: /logout/ | Processing Time: 0.0010 sec
+2025-03-15 17:26:24 - Method Not Allowed: /logout/

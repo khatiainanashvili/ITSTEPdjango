@@ -1,36 +1,48 @@
 from django.shortcuts import redirect, render
 from django.contrib.auth import authenticate, login, logout
 from django.contrib import messages
-
+from django.contrib.auth.views import LogoutView
 from .forms import RegistrationForm
+from django.contrib.auth import authenticate, login
+from django.contrib import messages
+from django.urls import reverse_lazy
+from django.views.generic import FormView
+from django.contrib.auth.forms import AuthenticationForm
+from django.contrib.auth.views import LoginView, LogoutView, PasswordChangeView, PasswordResetView, PasswordResetConfirmView
 
-def login_page(request):
-    if request.user.is_authenticated:
-        return redirect('home')
+from django.views.generic import CreateView
 
-    if request.method == 'POST':
-        username = request.POST.get('username', '').lower()
-        password = request.POST.get('password', '')
+from django.contrib.auth.models import User
 
-        user = authenticate(request, username=username, password=password)
+import logging
 
-        if user is not None:
-            login(request, user)  
-            return redirect('home')
-        else:
-            messages.error(request, "Invalid username or password")
-
-    return render(request, 'authentication/login.html')
+logger = logging.getLogger(__name__)
 
 
-def log_out(request):
-    logout(request)
-    return redirect('home')
+class UserLoginView(LoginView):
+    template_name = 'authentication/login.html'
+    success_url = reverse_lazy('books:home')
 
 
-def register_page(request):
-    form = RegistrationForm(request.POST or None)
-    if form.is_valid():
-        form.save()
-        return redirect("login")
-    return render(request, "authentication/register.html", {"form": form})
+class UserLogoutView(LogoutView):
+    next_page = reverse_lazy('authentication:login')
+
+class UserRegistrationView(CreateView):
+    model = User
+    form_class = RegistrationForm
+    template_name = 'authentication/register.html'
+    success_url = reverse_lazy('authentication:login')
+
+class UserPasswordChangeView(PasswordChangeView):
+    template_name = 'authentication/password_change.html'
+    success_url = reverse_lazy('books:home')
+
+
+class UserPasswordResetView(PasswordResetView):
+    template_name = 'authentication/password_reset.html'
+    email_template_name = 'authentication/passwor_dreset_confirm.html'
+    success_url = reverse_lazy('books:home')
+
+class UserPasswordResetConfirmView(PasswordResetConfirmView):
+    template_name = 'authentication/password_reset_done.html'
+    success_url = reverse_lazy('authentication:login')
