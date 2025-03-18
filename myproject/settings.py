@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'books',
     'authentication',
+    'drf_yasg',
+    'rest_framework',
+    'api',
 ]
 
 MIDDLEWARE = [
