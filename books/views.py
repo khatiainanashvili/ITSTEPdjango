@@ -6,6 +6,7 @@ from django.urls import reverse_lazy
 from django.core.mail import send_mail
 from django.conf import settings
 from django.db.models import Q
+from .utils import CustomPaginator
 from .models import Books, Purchase
 from .forms import BookForm, BookUpdateForm
 from django.core.paginator import Paginator, PageNotAnInteger, EmptyPage, EmptyPage
@@ -121,11 +122,40 @@ class HomeView(ListView):
     paginate_by = 1 
     
     def get_queryset(self):
-      query = self.request.GET.get('query', "")
-      if query:
-            return Books.objects.filter(Q(genre=query) | Q(title__icontains=query))
-      
-      return Books.objects.all()
+        query = self.request.GET.get('query', "")
+        genre_filter = self.request.GET.get('genre', "")
+
+        books = Books.objects.all()
+
+        if query:
+            books = books.filter(Q(title__icontains=query) | Q(genre__icontains=query))
+
+        if genre_filter:
+            books = books.filter(genre=genre_filter)
+
+        return books
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+
+        paginator = CustomPaginator(self.get_queryset(), self.paginate_by)
+        page = self.request.GET.get('page')
+
+        try:
+            books = paginator.page(page)
+        except PageNotAnInteger:
+            books = paginator.page(1)
+        except EmptyPage:
+            books = paginator.page(paginator.num_pages)
+
+        context["books"] = books
+        context["genres"] = Books.objects.values_list('genre', flat=True).distinct()
+        context["page_range"] = paginator.get_page_range(books.number)
+
+        return context
+    
+
+
 
 class AddBookView(CreateView):
     model = Books
